@@ -12,10 +12,14 @@ notebook. This lab is small on purpose; the thinking is the work.
 
 ## The task
 
-1. **Pick one topic** the class has covered or that you explored because of
-   it. Anything works: the N x M argument for MCP, why pass@1 and pass^k
-   differ, what a trace shows that an answer hides, how a 2B model routes
-   with one token, what broke in your RAG lab and why.
+1. **Pick one topic.** Any of these sources works:
+   - **Your own class presentation**: the content you already built and
+     presented is fair game, and usually the strongest starting point
+   - **Anything we studied in class**: the N x M argument for MCP, why
+     pass@1 and pass^k differ, what a trace shows that an answer hides, how
+     a 2B model routes with one token, what broke in your RAG lab and why
+   - **Something new**: a recent paper you read, or any AI concept you find
+     interesting, even if the course never touched it
 2. **Write a post** for LinkedIn (preferred) or X. Target 100 to 200 words
    for LinkedIn; X gets a single post or a short thread. If you would
    rather write long, publish a LinkedIn or Medium **article** and share it
