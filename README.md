@@ -20,6 +20,10 @@ notebook. This lab is small on purpose; the thinking is the work.
      a 2B model routes with one token, what broke in your RAG lab and why
    - **Something new**: a recent paper you read, or any AI concept you find
      interesting, even if the course never touched it
+
+   The scope is broad: anything related to AI or AI infrastructure
+   qualifies, and adjacent topics count too. A post about AI and the
+   economy, AI and energy, AI and your own field, all good.
 2. **Write a post** for LinkedIn (preferred) or X. Target 100 to 200 words
    for LinkedIn; X gets a single post or a short thread. If you would
    rather write long, publish a LinkedIn or Medium **article** and share it
