@@ -12,7 +12,7 @@ is no code in this repo; the deliverables are the final post text, the image, an
 
 - The GitHub repo `gu-dsan6725/social-post` is **private**; student copies are made by
   [assignment-setup](https://github.com/dsan-gu/assignment-setup), which withholds `solution/`.
-- Students finish with the commit message `final-submission`. The lab is worth 50 points; the
+- Students finish with the commit message `final-submission`. The lab is worth 100 points; the
   rubric is `solution/GRADING.md`.
 - The course repo is `../6725-fall-2026`.
 

@@ -104,7 +104,7 @@ Commit to `outputs/`:
 | `outputs/infographic.png` (or .jpg) | The image you attached |
 | `outputs/post_url.txt` | One line: the public URL of the live post (and the article URL too, if you wrote one) |
 
-**This lab is worth 50 points.** The rubric lives with the graders; the
+**This lab is worth 100 points.** The rubric lives with the graders; the
 short version: the disclosure is up front, the explanation is correct and
 yours, the infographic carries one clear idea, and the post reads like a
 person wrote it.
