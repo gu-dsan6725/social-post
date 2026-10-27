@@ -5,16 +5,16 @@ harnesses. This lab asks for something different: pick one topic from the
 course and explain it to people outside the classroom, as a real post on a
 real network, under your own name.
 
-Writing in public is a skill with compound returns. A clear 150-word
-explanation of pass^k or MCP does more for how you understand the topic,
-and for how recruiters and colleagues see you, than another private
-notebook. This lab is small on purpose; the thinking is the work.
+A clear 150-word public explanation of pass^k or MCP does two things a
+private notebook cannot: it forces you to understand the topic well enough
+to teach it, and it stays visible to recruiters and colleagues long after
+the course ends. This lab is small on purpose; the thinking is the work.
 
 ## The task
 
 1. **Pick one topic.** Any of these sources works:
    - **Your own class presentation**: the content you already built and
-     presented is fair game, and usually the strongest starting point
+     presented works here, and is usually the strongest starting point
    - **Anything we studied in class**: the N x M argument for MCP, why
      pass@1 and pass^k differ, what a trace shows that an answer hides, how
      a 2B model routes with one token, what broke in your RAG lab and why
@@ -99,8 +99,8 @@ LinkedIn.
 
 When a classmate posts, liking or reposting it is **desirable and not
 required**. No points attach to it either way; a class that amplifies its
-own members' work simply reaches further, and someday you will want the
-same from them.
+own members' work reaches further, and someday you will want the same from
+them.
 
 ## Deliverables
 

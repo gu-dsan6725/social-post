@@ -31,8 +31,8 @@ passed 11 of 12 questions once, but only 8 of 12 three times in a row"
 teaches more than "reliability matters". Spell terms out on first use.>
 
 <Closing line: what you would tell a colleague to look at, or the one
-question the topic leaves you with. A real question invites comments; a
-summary of what you just said invites nothing.>
+question the topic leaves you with. A real question invites comments;
+skip any closing summary.>
 
 <Optional: 2-4 hashtags at the end, no more. #GenAI #DSAN6725 and one or
 two specific to the topic.>
