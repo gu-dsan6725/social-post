@@ -31,7 +31,8 @@ is no code in this repo; the deliverables are the final post text, the image, an
 
 - The hard content requirement is non-negotiable and must stay prominent in README and every
   template: the course context (DSAN 6725, Georgetown) appears at the top of the post, before
-  the content. Tagging the instructor stays optional; class engagement (likes, reposts) stays
+  the content. Tagging the instructor is **not required** and must stay that way in all
+  student-facing text; class engagement (likes, reposts) stays
   **desirable and not required**.
 - The AI-usage section is policy: AI allowed, write-first-then-edit recommended, and the ban
   list of machine-writing tells stays explicit. Do not soften it.

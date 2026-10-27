@@ -40,7 +40,8 @@ at Georgetown**, and this is a topic you learned or explored in that class
 and want to share. Readers should know the context in the first two or
 three lines, before the content starts.
 
-- You do not need to tag the instructor or anyone else.
+- **Tagging the instructor is not required.** You do not need to tag
+  anyone at all.
 - Everything else about the post is yours: tone, angle, hashtags or none.
 
 ## The infographic
