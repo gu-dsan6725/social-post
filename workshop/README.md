@@ -1,4 +1,4 @@
-# Workshop: Post What You Learn
+# Workshop: Write Publicly About What You Learn
 
 A 90-minute workshop on writing technical posts for LinkedIn, X and Medium,
 open to all students in Georgetown's M.S. in Data Science and Analytics
@@ -25,8 +25,8 @@ their field. They leave with a draft they can post.
 
 | File | What it is |
 |------|------------|
-| [slides/post-what-you-learn.html](slides/post-what-you-learn.html) | The 42-slide deck as one offline HTML file. Arrow keys or a click to advance; critique answers appear one click at a time; N shows speaker notes |
-| [slides/post-what-you-learn.pdf](slides/post-what-you-learn.pdf) | The same deck as a PDF, all critique answers shown, no notes |
+| [slides/write-publicly-about-what-you-learn.html](slides/write-publicly-about-what-you-learn.html) | The 42-slide deck as one offline HTML file. Arrow keys or a click to advance; critique answers appear one click at a time; N shows speaker notes |
+| [slides/write-publicly-about-what-you-learn.pdf](slides/write-publicly-about-what-you-learn.pdf) | The same deck as a PDF, all critique answers shown, no notes |
 | [Editable deck](https://claude.ai/artifact/MqJwpiEuBRk4yuo5xv5r2z) | The source deck in Claude Slides. Private until shared |
 | [best-practices.md](best-practices.md) | Structure, quality, timing and platform notes, with sources |
 | [sample-posts.md](sample-posts.md) | Model posts for LinkedIn, X and Medium, with notes on what each does |
