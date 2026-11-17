@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200" role="img" aria-label="Bar chart: a churn model scored 0.97 AUC with a data leak and 0.81 after moving feature selection inside each cross-validation fold">
+  <rect width="1200" height="1200" fill="#FBF8EF"/>
+  <text x="100" y="140" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="4" fill="#17706A">SAME MODEL, SAME DATA</text>
+  <text x="100" y="250" font-family="Space Grotesk, Arial, sans-serif" font-size="80" font-weight="700" fill="#0F2E2E">A data leak inflated</text>
+  <text x="100" y="345" font-family="Space Grotesk, Arial, sans-serif" font-size="80" font-weight="700" fill="#0F2E2E">my AUC by 16 points</text>
+  <rect x="180" y="533" width="360" height="427" rx="12" fill="#E07A5F"/>
+  <rect x="660" y="604" width="360" height="356" rx="12" fill="#17706A"/>
+  <text x="360" y="506" text-anchor="middle" font-family="Space Grotesk, Arial, sans-serif" font-size="96" font-weight="700" fill="#0F2E2E">0.97</text>
+  <text x="840" y="577" text-anchor="middle" font-family="Space Grotesk, Arial, sans-serif" font-size="96" font-weight="700" fill="#0F2E2E">0.81</text>
+  <line x1="120" y1="960" x2="1080" y2="960" stroke="#0F2E2E" stroke-width="4"/>
+  <text x="360" y="1040" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="52" font-weight="700" fill="#0F2E2E">Leaky</text>
+  <text x="840" y="1040" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="52" font-weight="700" fill="#0F2E2E">Fixed</text>
+  <text x="600" y="1130" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="48" fill="#3B4D4C">Feature selection moved inside each fold</text>
+</svg>

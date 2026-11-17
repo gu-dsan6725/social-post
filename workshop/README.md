@@ -25,7 +25,7 @@ their field. They leave with a draft they can post.
 
 | File | What it is |
 |------|------------|
-| [slides/write-publicly-about-what-you-learn.html](slides/write-publicly-about-what-you-learn.html) | The 42-slide deck as one offline HTML file. Arrow keys or a click to advance; critique answers appear one click at a time; N shows speaker notes |
+| [slides/write-publicly-about-what-you-learn.html](slides/write-publicly-about-what-you-learn.html) | The 43-slide deck as one offline HTML file. Arrow keys or a click to advance; critique answers appear one click at a time; N shows speaker notes |
 | [slides/write-publicly-about-what-you-learn.pdf](slides/write-publicly-about-what-you-learn.pdf) | The same deck as a PDF, all critique answers shown, no notes |
 | [Editable deck](https://claude.ai/artifact/MqJwpiEuBRk4yuo5xv5r2z) | The source deck in Claude Slides. Private until shared |
 | [best-practices.md](best-practices.md) | Structure, quality, timing and platform notes, with sources |
