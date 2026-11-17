@@ -26,6 +26,8 @@ is no code in this repo; the deliverables are the final post text, the image, an
 | `templates/article.md` | Long-form article plus companion-post template |
 | `outputs/` | Student deliverables: `post.md`, `infographic.png`, `post_url.txt` |
 | `solution/GRADING.md` | Rubric; withheld from student copies |
+| `workshop/` | 90-minute writing workshop for all DSAN students: deck (HTML and PDF), best practices, model and flawed posts, topic menu |
+| `workshop/clarksburg-hs/` | 60-minute high-school version of the workshop, with its own deck and flyer |
 
 ## Rules for edits
 

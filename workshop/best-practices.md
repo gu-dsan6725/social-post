@@ -101,8 +101,20 @@ labeled; grammar and spell checks need no label
 | [Sprout Social 2026](https://sproutsocial.com/insights/best-times-to-post-on-twitter/) | X | Tuesday to Thursday, noon to 6 p.m. |
 
 All three studies favor Tuesday to Thursday, and each names a different
-best hour. Post midweek at a time when you can answer comments for the next
-hour, then check your own analytics after a few posts.
+best hour. Pick one midweek slot, such as 9 a.m. Tuesday, schedule your
+posts for it, and check back during the first hour to answer comments.
+After a few posts, check your own analytics.
+
+## Consistency beats intensity
+
+- **Make it a discipline.** Every two weeks, once a month, whatever works
+  for you. Pick the pace once and keep it.
+- **Draft early, schedule the post.** Write the draft on Sunday, then
+  schedule it for 9 a.m. Tuesday. LinkedIn and X can both schedule a post,
+  so it goes up on its own and is not one more thing to remember.
+- **Expect a quiet start.** Unless you already have an audience, your
+  first few posts will get little engagement. Everyone starts there, so
+  keep to your schedule. People start to find you after months of regular posts.
 
 ## The image
 
@@ -149,6 +161,7 @@ a number or a named action.
 - Skip comment pods and like-for-like groups; platforms detect them.
 - Keep an idea file. One post a month gives you twelve samples of your
   thinking in a year.
+- Put a recurring Sunday block on your calendar for the next draft.
 
 ## Before you post
 
@@ -159,4 +172,4 @@ a number or a named action.
 - [ ] No giveaways from the lists above
 - [ ] Every word on the image spelled right; alt text added
 - [ ] Read aloud once
-- [ ] Posted Tuesday to Thursday, at a time you can stay for the replies
+- [ ] Scheduled for your regular slot, Tuesday to Thursday, and you can check back in the first hour

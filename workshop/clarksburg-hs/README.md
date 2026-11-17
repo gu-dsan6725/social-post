@@ -9,7 +9,7 @@ together.
 
 | Time | Part | What happens |
 |------|------|--------------|
-| 0:00 to 0:25 | 1. How posts work | Age limits and privacy, one idea, the story spine, openings, formats, timing, the image, editing with AI |
+| 0:00 to 0:25 | 1. How posts work | Age limits and privacy, one idea, the story spine, openings, formats, timing, the image, editing with AI, posting on a schedule |
 | 0:25 to 0:35 | 2. Model posts | A LinkedIn post on an AP Statistics survey, an X thread on the birthday problem, a Medium article on a science fair model |
 | 0:35 to 0:50 | 3. Spot the problems | Three flawed posts; the room calls out what's wrong before each answer appears |
 | 0:50 to 1:00 | Questions | |
@@ -18,7 +18,7 @@ together.
 
 | File | What it is |
 |------|------------|
-| [chs-deck.html](chs-deck.html) | The 35-slide deck as one offline HTML file. Arrow keys, a click or the buttons advance; N shows speaker notes |
+| [chs-deck.html](chs-deck.html) | The 36-slide deck as one offline HTML file. Arrow keys, a click or the buttons advance; N shows speaker notes |
 | [chs-deck.pdf](chs-deck.pdf) | The same deck as a PDF, all parts shown, no notes |
 | [chs-flyer.html](chs-flyer.html) | The one-page flyer, US Letter, fonts built in |
 | [chs-flyer.pdf](chs-flyer.pdf) | The flyer, ready to print |

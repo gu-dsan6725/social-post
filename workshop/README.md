@@ -17,7 +17,7 @@ their field. They leave with a draft they can post.
 
 | Time | Part | What happens |
 |------|------|--------------|
-| 0:00 to 0:30 | 1. How posts work | One idea, structure, openings, formats, what the feeds reward, timing, the image, AI as an editor. Then the model posts and a critique round on four flawed posts |
+| 0:00 to 0:30 | 1. How posts work | One idea, structure, openings, formats, what the feeds reward, timing, the image, AI as an editor, posting on a schedule. Then the model posts and a critique round on four flawed posts |
 | 0:30 to 1:00 | 2. Write | Attendees draft on their own topic or one from [topics.md](topics.md). They write the first draft themselves |
 | 1:00 to 1:30 | 3. Review | Three volunteers put a draft on screen; the room improves it together. Surprise gifts for volunteers |
 
@@ -25,7 +25,7 @@ their field. They leave with a draft they can post.
 
 | File | What it is |
 |------|------------|
-| [slides/write-it-where-people-can-read-it.html](slides/write-it-where-people-can-read-it.html) | The 39-slide deck as one offline HTML file. Arrow keys or a click to advance; critique answers appear one click at a time; N shows speaker notes |
+| [slides/write-it-where-people-can-read-it.html](slides/write-it-where-people-can-read-it.html) | The 42-slide deck as one offline HTML file. Arrow keys or a click to advance; critique answers appear one click at a time; N shows speaker notes |
 | [slides/write-it-where-people-can-read-it.pdf](slides/write-it-where-people-can-read-it.pdf) | The same deck as a PDF, all critique answers shown, no notes |
 | [Editable deck](https://claude.ai/artifact/MqJwpiEuBRk4yuo5xv5r2z) | The source deck in Claude Slides. Private until shared |
 | [best-practices.md](best-practices.md) | Structure, quality, timing and platform notes, with sources |
@@ -55,4 +55,6 @@ no writing session, plus a flyer, lives in [clarksburg-hs/](clarksburg-hs/).
 
 Students doing the social-post lab in this repo can use the workshop draft
 for the lab. The lab's own requirements in [../README.md](../README.md)
-still apply.
+still apply: name DSAN 6725 (Applied Generative AI) at Georgetown in the
+first lines. The model posts say only "DSAN" because they come from other
+DSAN courses.

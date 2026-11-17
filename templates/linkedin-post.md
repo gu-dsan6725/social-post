@@ -34,8 +34,8 @@ teaches more than "reliability matters". Spell terms out on first use.>
 question the topic leaves you with. A real question invites comments;
 skip any closing summary.>
 
-<Optional: 2-4 hashtags at the end, no more. #GenAI #DSAN6725 and one or
-two specific to the topic.>
+<Optional: 1 to 3 hashtags at the end, no more: #DSAN6725 and one or two
+specific to the topic.>
 
 ## Attachment
 

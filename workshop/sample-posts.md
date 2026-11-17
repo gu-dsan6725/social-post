@@ -4,6 +4,10 @@ One model for each format. The numbers in the project stories are
 illustrative: in a real post they come from the writer's own run. The
 arithmetic in the X thread is exact.
 
+The posts name "DSAN" because they come from different DSAN courses. For
+the DSAN 6725 social-post lab, name the course in full: DSAN 6725 (Applied
+Generative AI) at Georgetown.
+
 ## LinkedIn post: data leakage
 
 > In my machine learning course at Georgetown (DSAN), my churn model scored

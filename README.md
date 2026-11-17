@@ -62,10 +62,10 @@ three lines, before the content starts.
   with code. A route that works well: ask Claude Code, Codex, or another AI
   assistant to **draw the infographic as an SVG**, iterate on it until the
   layout and numbers are right, then convert the SVG to a PNG and attach
-  the PNG to your post. SVG text is real text, so nothing comes out garbled
+  the PNG to your post. SVG text is real text, so nothing comes out garbled.
 - If an image model generates the picture instead, read every word on it;
   image models write garbled labels, and a garbled label in your
-  infographic reads as carelessness
+  infographic reads as carelessness.
 - Keep the source file. You will commit the image with your post text.
 
 ## Using AI to write: allowed, with rules
